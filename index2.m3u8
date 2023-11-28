@@ -1,15 +1,21 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="ESPAÑOL",NAME="SPA",DEFAULT=YES,AUTOSELECT=YES,LANGUAGE="SPA",URI="http://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(HBO_HD)/07.m3u8"
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=555642,CODECS="avc1.4d0029,mp4a.40.2",RESOLUTION=370x208,CLOSED-CAPTIONS="captions",AUDIO="ESPAÑOL"
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=555642,CODECS="avc1.42C01E,mp4a.40.2",RESOLUTION=370x208,CLOSED-CAPTIONS="captions",AUDIO="ESPAÑOL"
 http://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(HBO_HD)/01.m3u8
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1229989,CODECS="avc1.4d0029,mp4a.40.2",RESOLUTION=548x308,CLOSED-CAPTIONS="captions",AUDIO="ESPAÑOL"
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1229989,CODECS="avc1.42C01E,mp4a.40.2",RESOLUTION=548x308,CLOSED-CAPTIONS="captions",AUDIO="ESPAÑOL"
 http://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(HBO_HD)/02.m3u8
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1567163,CODECS="avc1.4d0029,mp4a.40.2",RESOLUTION=690x388,CLOSED-CAPTIONS="captions",AUDIO="ESPAÑOL"
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1567163,CODECS="avc1.42C01E,mp4a.40.2",RESOLUTION=690x388,CLOSED-CAPTIONS="captions",AUDIO="ESPAÑOL"
 http://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(HBO_HD)/03.m3u8
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2241511,CODECS="avc1.4d0029,mp4a.40.2",RESOLUTION=832x468,CLOSED-CAPTIONS="captions",AUDIO="ESPAÑOL"
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2241511,CODECS="avc1.42C01F,mp4a.40.2",RESOLUTION=832x468,CLOSED-CAPTIONS="captions",AUDIO="ESPAÑOL"
 http://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(HBO_HD)/04.m3u8
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=3028250,CODECS="avc1.4d0029,mp4a.40.2",RESOLUTION=1280x720,CLOSED-CAPTIONS="captions",AUDIO="ESPAÑOL"
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=3028250,CODECS="avc1.42C01F,mp4a.40.2",RESOLUTION=1280x720,CLOSED-CAPTIONS="captions",AUDIO="ESPAÑOL"
 http://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(HBO_HD)/05.m3u8
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=4714119,CODECS="avc1.4d0029,mp4a.40.2",RESOLUTION=1920x1080,CLOSED-CAPTIONS="captions",AUDIO="ESPAÑOL"
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=4714119,CODECS="avc1.640028,mp4a.40.2",RESOLUTION=1920x1080,CLOSED-CAPTIONS="captions",AUDIO="ESPAÑOL"
 http://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(HBO_HD)/06.m3u8
