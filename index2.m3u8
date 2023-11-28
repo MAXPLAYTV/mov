@@ -2,7 +2,7 @@
 #EXT-X-VERSION:3
 #EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="ESPAÑOL",NAME="SPA",DEFAULT=YES,AUTOSELECT=YES,LANGUAGE="SPA",URI="http://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(HBO_HD)/07.m3u8"
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=555642,CODECS="avc1.4d0029,mp4a.40.2",RESOLUTION=370x208,CLOSED-CAPTIONS="captions",AUDIO="ESPAÑOL"
-https://raw.githubusercontent.com/MAXPLAYTV/mov/main/01.m3u8
+http://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(HBO_HD)/01.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1229989,CODECS="avc1.4d0029,mp4a.40.2",RESOLUTION=548x308,CLOSED-CAPTIONS="captions",AUDIO="ESPAÑOL"
 http://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(HBO_HD)/02.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1567163,CODECS="avc1.4d0029,mp4a.40.2",RESOLUTION=690x388,CLOSED-CAPTIONS="captions",AUDIO="ESPAÑOL"
